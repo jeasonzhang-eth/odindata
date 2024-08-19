@@ -1,0 +1,5 @@
+.DS_Store
+the_graph/token_vis/node_modules
+the_graph/token_vis/build
+the_graph/token_vis/generated
+.idea
